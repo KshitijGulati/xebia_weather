@@ -1,0 +1,268 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:design:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/3b6f86d61a08d99fa57998306e53365f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/90b629d1db88aa56c9f0d827c5dee3ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/e6c21e698b62cc6233eba881fdbf2e52/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/a5b9befa5b829e6a30c8859b757296fc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/6254deb023b0f6dc6f2f0327cea5820f/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/268234b1d74f06080ea61a636f1fd5b4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/66a0a8e788bb519a3bd6a145fce16682/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/ef2219d646b871b21e9382a023fd6faf/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/8e2a59678dc0bb01971c9601f3addf94/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/0a7f2bf947cf83622b64e2ad27d8bdba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/20cc875627d18b87310651eaa61c421b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/836683925f3772bd81b9679b34a55f42/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/9f1d7b77363298517b9a61758defd6bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/bde13be3eb7fea26ffc1dc2741421c1e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d1cec0cfe5fe52087d6f21780e828fc1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7a72c104f6f3008e2a420c7fdcddb2ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/faf5baa9226c8c19cc29aa6007f3a7c7/AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/9006b7b48f8615b667c90f230e6d988d/AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/482c033abfe0497f7ac3932ecd50c277/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/ec314440828f1c6013491b59b328d183/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/04f4f8ee7b9029913f32d308038cfbfc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/c9bf587ad2e29dfe10b348394719106d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/a173e6590ac2059ba35ad5dc71b48fe8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/b4fd2b89c6f12c2def6f8c2d5bc28f0f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a328520e9c2f9374479067386ffdfefa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/8268fbda3acc30511b8a33f7246275e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/ef62aeb02134d3793daf7a116026b0e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/d2e14c9627b1405659cfd7d0fce44bea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bd85bd44482c5ae37de776e0f833dac7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f1d960f884c428821376333c573e676d/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/da948cf341d6159d085117f894d321ad/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5b2ea00299070b67ecb16b5a8f974b8a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/e487d9f7398a3799e22d358bb84804fe/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6ef0664445197270f2ab4a5ef5194e8b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b7b474e012aa399937367e23ce7d27b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/d76edf4e2e2516f774263b37473c3ec6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/afc7d554a6009987356bf8dd5803183a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/c9b8a2a2c66d700ae4e1d22107b59a38/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/11daa63a843857ad8900f61b0d42f74c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/344fd541e10821df73b12c1c0c1e7af9/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/e22b15dcc7ecb860af0c977992cf5878/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/dee2eb8f44470b1d9ff7fae7e9df1789/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/e8f2c437941244bc7d77a1fa45c02d24/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:3:11-46
+		INJECTED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:6:5-75
+	android:name
+		ADDED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:6:22-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:8:22-76
+application
+ADDED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:9:5-23:19
+MERGED from [com.android.support:design:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/3b6f86d61a08d99fa57998306e53365f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/3b6f86d61a08d99fa57998306e53365f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/e6c21e698b62cc6233eba881fdbf2e52/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/e6c21e698b62cc6233eba881fdbf2e52/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/a5b9befa5b829e6a30c8859b757296fc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/a5b9befa5b829e6a30c8859b757296fc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/6254deb023b0f6dc6f2f0327cea5820f/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/6254deb023b0f6dc6f2f0327cea5820f/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/268234b1d74f06080ea61a636f1fd5b4/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/268234b1d74f06080ea61a636f1fd5b4/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/66a0a8e788bb519a3bd6a145fce16682/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/66a0a8e788bb519a3bd6a145fce16682/AndroidManifest.xml:22:5-26:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/8e2a59678dc0bb01971c9601f3addf94/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/8e2a59678dc0bb01971c9601f3addf94/AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bd85bd44482c5ae37de776e0f833dac7/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bd85bd44482c5ae37de776e0f833dac7/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f1d960f884c428821376333c573e676d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f1d960f884c428821376333c573e676d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/344fd541e10821df73b12c1c0c1e7af9/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/344fd541e10821df73b12c1c0c1e7af9/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/e22b15dcc7ecb860af0c977992cf5878/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/e22b15dcc7ecb860af0c977992cf5878/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/dee2eb8f44470b1d9ff7fae7e9df1789/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/dee2eb8f44470b1d9ff7fae7e9df1789/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/e8f2c437941244bc7d77a1fa45c02d24/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/e8f2c437941244bc7d77a1fa45c02d24/AndroidManifest.xml:5:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bd85bd44482c5ae37de776e0f833dac7/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:13:13-39
+	android:label
+		ADDED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:11:13-45
+	android:icon
+		ADDED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:12:13-45
+	android:allowBackup
+		ADDED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:10:13-39
+	android:theme
+		ADDED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:14:13-44
+activity#rbl.Assignment.weatherapp.weather.view.WeatherActivity
+ADDED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:15:19-88
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:17:17-68
+	android:name
+		ADDED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:19:27-74
+activity#rbl.Assignment.weatherapp.weather.view.BaseActivity
+ADDED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:22:9-87
+	android:name
+		ADDED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml:22:19-85
+uses-sdk
+INJECTED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/3b6f86d61a08d99fa57998306e53365f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/3b6f86d61a08d99fa57998306e53365f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/90b629d1db88aa56c9f0d827c5dee3ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/90b629d1db88aa56c9f0d827c5dee3ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/e6c21e698b62cc6233eba881fdbf2e52/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/e6c21e698b62cc6233eba881fdbf2e52/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/a5b9befa5b829e6a30c8859b757296fc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/a5b9befa5b829e6a30c8859b757296fc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/6254deb023b0f6dc6f2f0327cea5820f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/6254deb023b0f6dc6f2f0327cea5820f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/268234b1d74f06080ea61a636f1fd5b4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/268234b1d74f06080ea61a636f1fd5b4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/66a0a8e788bb519a3bd6a145fce16682/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/66a0a8e788bb519a3bd6a145fce16682/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/ef2219d646b871b21e9382a023fd6faf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/ef2219d646b871b21e9382a023fd6faf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/8e2a59678dc0bb01971c9601f3addf94/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/8e2a59678dc0bb01971c9601f3addf94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/0a7f2bf947cf83622b64e2ad27d8bdba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/0a7f2bf947cf83622b64e2ad27d8bdba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/20cc875627d18b87310651eaa61c421b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/20cc875627d18b87310651eaa61c421b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/836683925f3772bd81b9679b34a55f42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/836683925f3772bd81b9679b34a55f42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/9f1d7b77363298517b9a61758defd6bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/9f1d7b77363298517b9a61758defd6bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/bde13be3eb7fea26ffc1dc2741421c1e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/bde13be3eb7fea26ffc1dc2741421c1e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d1cec0cfe5fe52087d6f21780e828fc1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d1cec0cfe5fe52087d6f21780e828fc1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7a72c104f6f3008e2a420c7fdcddb2ae/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7a72c104f6f3008e2a420c7fdcddb2ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/faf5baa9226c8c19cc29aa6007f3a7c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/faf5baa9226c8c19cc29aa6007f3a7c7/AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/9006b7b48f8615b667c90f230e6d988d/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/9006b7b48f8615b667c90f230e6d988d/AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/482c033abfe0497f7ac3932ecd50c277/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/482c033abfe0497f7ac3932ecd50c277/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/ec314440828f1c6013491b59b328d183/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/ec314440828f1c6013491b59b328d183/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/04f4f8ee7b9029913f32d308038cfbfc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/04f4f8ee7b9029913f32d308038cfbfc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/c9bf587ad2e29dfe10b348394719106d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/c9bf587ad2e29dfe10b348394719106d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/a173e6590ac2059ba35ad5dc71b48fe8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/a173e6590ac2059ba35ad5dc71b48fe8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/b4fd2b89c6f12c2def6f8c2d5bc28f0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/b4fd2b89c6f12c2def6f8c2d5bc28f0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a328520e9c2f9374479067386ffdfefa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a328520e9c2f9374479067386ffdfefa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/8268fbda3acc30511b8a33f7246275e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/8268fbda3acc30511b8a33f7246275e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/ef62aeb02134d3793daf7a116026b0e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/ef62aeb02134d3793daf7a116026b0e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/d2e14c9627b1405659cfd7d0fce44bea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/d2e14c9627b1405659cfd7d0fce44bea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bd85bd44482c5ae37de776e0f833dac7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bd85bd44482c5ae37de776e0f833dac7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f1d960f884c428821376333c573e676d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f1d960f884c428821376333c573e676d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/da948cf341d6159d085117f894d321ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/da948cf341d6159d085117f894d321ad/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5b2ea00299070b67ecb16b5a8f974b8a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5b2ea00299070b67ecb16b5a8f974b8a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/e487d9f7398a3799e22d358bb84804fe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/e487d9f7398a3799e22d358bb84804fe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6ef0664445197270f2ab4a5ef5194e8b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6ef0664445197270f2ab4a5ef5194e8b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b7b474e012aa399937367e23ce7d27b9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b7b474e012aa399937367e23ce7d27b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/d76edf4e2e2516f774263b37473c3ec6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/d76edf4e2e2516f774263b37473c3ec6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/afc7d554a6009987356bf8dd5803183a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/afc7d554a6009987356bf8dd5803183a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/c9b8a2a2c66d700ae4e1d22107b59a38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/c9b8a2a2c66d700ae4e1d22107b59a38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/11daa63a843857ad8900f61b0d42f74c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/11daa63a843857ad8900f61b0d42f74c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/344fd541e10821df73b12c1c0c1e7af9/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/344fd541e10821df73b12c1c0c1e7af9/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/e22b15dcc7ecb860af0c977992cf5878/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/e22b15dcc7ecb860af0c977992cf5878/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/dee2eb8f44470b1d9ff7fae7e9df1789/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/dee2eb8f44470b1d9ff7fae7e9df1789/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/e8f2c437941244bc7d77a1fa45c02d24/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/e8f2c437941244bc7d77a1fa45c02d24/AndroidManifest.xml:4:5-43
+INJECTED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kshitij/Downloads/openweatherMapMvvm-master/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/6254deb023b0f6dc6f2f0327cea5820f/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/6254deb023b0f6dc6f2f0327cea5820f/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/6254deb023b0f6dc6f2f0327cea5820f/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/6254deb023b0f6dc6f2f0327cea5820f/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/66a0a8e788bb519a3bd6a145fce16682/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/66a0a8e788bb519a3bd6a145fce16682/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/66a0a8e788bb519a3bd6a145fce16682/AndroidManifest.xml:24:13-58
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/8e2a59678dc0bb01971c9601f3addf94/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/8e2a59678dc0bb01971c9601f3addf94/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/8e2a59678dc0bb01971c9601f3addf94/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/8e2a59678dc0bb01971c9601f3addf94/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/kshitij/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/8e2a59678dc0bb01971c9601f3addf94/AndroidManifest.xml:24:13-83
